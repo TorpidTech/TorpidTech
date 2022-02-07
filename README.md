@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @TorpidTech aka @VipinYadav0
-- 👀 I’m interested basically in learning programming realated new things. I'm currently exploring Python with great intrerest in Machine Learning and Data Science.
+- 👀 I’m basically interested in learning and exploring programming realated things. I'm currently exploring Python with great intrerest in Machine Learning and Data Science.
 - 🌱 I’m currently learning Packages and Frameworks of Python used in Machine Leaning and Data Science.
 - 🌱 I have used Django framework for my projects.
-- 💞️ I’m looking to collaborate on Data Science big projects, where I can help a community grow higher with learning and apllying my best of knowledge to.
-- 📫 How to reach me..... You could Contact me on vyvipinyadav998@gmail.com or torpidtech@gmail.com (Contact No. 6393556488)
+- 💞️ I’m looking to collaborate on Data Science, Machine Learning big projects, where I can help a community grow higher with learning and apllying my best of knowledge to.
+- 📫 How to reach me..... You could Contact me on vyvipinyadav998@gmail.com or torpidtech@gmail.com (Contact No. 6393556488/8057656424)
 
 <!---
 TorpidTech/TorpidTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
